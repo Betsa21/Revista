@@ -60,3 +60,51 @@ En la próxima edición, nos adentraremos en el **mundo de los coches eléctrico
 *"Conducir no es solo moverse: es descubrir, innovar y disfrutar. Mantente al volante de las últimas novedades con nuestra revista."*
 
 `*Autor: Aquiles*`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+# Sección: Pasión por la Velocidad – Rally y Fórmula 1
+
+---
+
+## 🏁 Coches de Rally: Potencia y adrenalina
+
+Los **coches de rally** son máquinas diseñadas para **conducir a alta velocidad en todo tipo de terrenos**, desde asfalto hasta tierra y nieve. Modelos como el **Ford Fiesta WRC**, el **Toyota Yaris WRC** o el **Hyundai i20 WRC** combinan **potencia, tracción total y suspensiones reforzadas**, permitiendo a los pilotos superar curvas imposibles y tramos extremos.  
+
+**Dato curioso:**  
+El **motor de un coche WRC** puede alcanzar más de **380 CV**, y estos vehículos pesan alrededor de **1.200 kg**, ofreciendo una relación peso-potencia brutal que los hace increíblemente ágiles.  
+
+  ![Coche de Rally](https://tse2.mm.bing.net/th/id/OIP.jQscn6fnaIkBAflWKAhDwgHaEA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3)
+
+---
+
+## 🏎 Fórmula 1: Tecnología y velocidad extrema
+
+La **Fórmula 1** representa la cúspide de la tecnología automovilística y la velocidad en pista. Coches como el **Mercedes W14**, **Red Bull RB19** o **Ferrari SF-23** combinan **aerodinámica avanzada, motores híbridos V6 turbo y sistemas de recuperación de energía (ERS)** para alcanzar velocidades superiores a los 350 km/h.  
+
+**Curiosidad:**  
+Un piloto de F1 puede experimentar **fuerzas G de hasta 6 en las curvas**, lo que requiere un entrenamiento físico y mental extremo para mantener el control.  
+
+  ![F1](https://tse3.mm.bing.net/th/id/OIP.p60MJSYpymjYGqdKoxQ6NQHaEL?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) 
+
+---
+
+## Comparativa Rally vs F1
+
+| Característica | Rally | Fórmula 1 |
+|:---|:---|:---|
+| Terreno | Mixto: tierra, asfalto, nieve | Asfalto liso y circuito cerrado |
+| Motor | 380-420 CV | 950-1.000 CV (híbrido) |
+| Peso | ~1.200 kg | ~800 kg |
+| Velocidad máxima | 200-220 km/h | 350+ km/h |
+| Conducción | Versatilidad y control en curvas y saltos | Precisión extrema y aerodinámica |
+
+---
+
+## Sección Especial: Leyendas de la velocidad
+
+- **Sébastien Loeb**: 9 veces campeón del mundo de rally.  
+- **Carlos Sainz Sr. y Jr.**: Iconos del rally y la F1.  
+- **Lewis Hamilton**: 7 veces campeón del mundo de F1.  
+- **Ayrton Senna**: Leyenda eterna de la F1, famoso por su habilidad en lluvia y precisión quirúrgica.
+
+`*Autor: Aquiles*`
