@@ -278,7 +278,7 @@ Desde los **primeros experimentos del siglo XIX** hasta los **Tesla, Hyundai y V
 Cada año aparecen más modelos, tecnologías y competencias que acercan un futuro **limpio, eficiente y tecnológico** para todos.
 
 
-#  Novedades en el Mundo del Motor –
+#  Novedades en el Mundo del Motor
 
 En los últimos dos años, el mundo del motor ha vivido una transformación significativa. Los avances en **vehículos eléctricos e híbridos**, así como las innovaciones en diseño y tecnología de motos, marcan las tendencias actuales. Aquí te presentamos las novedades más destacadas.
 
@@ -417,5 +417,13 @@ El año 2025 trae cambios importantes en la regulación de emisiones y en la evo
 
 Los años 2024 y 2025 han sido decisivos en la transición hacia **movilidad sostenible**, con una oferta cada vez más amplia de coches eléctricos e híbridos y motocicletas que combinan diseño clásico con tecnología avanzada. La tendencia es clara: **más autonomía, eficiencia y conectividad**, tanto en carretera como en ciudad.
 
+
+
+---
+
+**Secciones redactadas por:** [Betsabé]
+*  Historia y cultura del mundo del motor.
+*  Coches eléctricos e híbridos.
+*  Novedades en el mundo del motor.
 
 
