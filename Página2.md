@@ -47,3 +47,16 @@ El Dacia Sandero continúa siendo el coche más vendido en España gracias a su 
 |:---:|:---:|:---:|
 | **Dacia Sandero** | **Coches híbridos** | **Futuro del motor** |
 | Lidera ventas ofreciendo lo esencial sin complicaciones. | Pueden reducir hasta un 40% el consumo en ciudad. | Software inteligente + electricidad = eficiencia y seguridad.
+
+---
+
+## Conclusión / Próxima edición
+
+Esta edición nos ha mostrado cuáles son **los coches que dominan el mercado español**, desde el imbatible **Dacia Sandero** hasta los SUV y compactos que combinan estilo, eficiencia y tecnología. También exploramos **novedades eléctricas e híbridas**, modelos que han marcado historia y curiosidades que todo conductor debería conocer.
+
+En la próxima edición, nos adentraremos en el **mundo de los coches eléctricos urbanos**, comparando modelos compactos, su autonomía, tecnología y cómo se están transformando nuestras ciudades. Además, ofreceremos **guías prácticas y trucos de mantenimiento** para sacar el máximo partido a tu vehículo.
+
+**Mensaje final:**  
+*"Conducir no es solo moverse: es descubrir, innovar y disfrutar. Mantente al volante de las últimas novedades con nuestra revista."*
+
+`*Autor: Aquiles*`
