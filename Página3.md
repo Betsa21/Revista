@@ -293,6 +293,8 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Precio:** Desde 39.656 € hasta 49.028 €  
 - **Detalles:** Evento organizado por Antonio Banderas y Domingo Sánchez; inicio de la ofensiva de 40 modelos eléctricos antes de 2027.  
 - [Más información](https://cincodias.elpais.com/companias/2025-10-14/repsol-presenta-una-nueva-gasolina-renovable-que-emite-un-70-menos-de-co2-y-que-cuesta-nueve-centimos-mas.html)
+
+
 ![](https://fotografias.lasexta.com/clipping/cmsimages01/2023/09/05/C71FD37B-764A-4C87-A8E4-8E34CA945524/mercedes-benz-cla-concept-adelanto-berlina-mediana-100-electrica-que-llegara-2025-tecnologia-punta_104.jpg?crop=1080,1080,x350,y0&width=1200&height=1200&optimize=low&format=webply)
 
 
@@ -304,6 +306,8 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Autonomía eléctrica:** Hasta 680 km (WLTP)  
 - **Precio:** Desde 27.690 €  
 - [Más información](https://cincodias.elpais.com/companias/2025-10-14/repsol-presenta-una-nueva-gasolina-renovable-que-emite-un-70-menos-de-co2-y-que-cuesta-nueve-centimos-mas.html)
+
+
 ![](https://fotos.quecochemecompro.com/citroen-c5-aircross/40291620.jpg?size=750x400)
 
 
@@ -314,6 +318,8 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Disponibilidad:** Inicialmente en 20 estaciones en Madrid y Cataluña, expansión a 30 más antes de fin de año  
 - **Precio:** +0,09 €/litro respecto a gasolina convencional  
 - [Más información](https://cincodias.elpais.com/companias/2025-10-14/repsol-presenta-una-nueva-gasolina-renovable-que-emite-un-70-menos-de-co2-y-que-cuesta-nueve-centimos-mas.html)
+
+
 ![](https://phantom.estaticos-marca.com/d160475ab65c6c75dcd1da38af0db17e/resize/828/f/jpg/assets/multimedia/imagenes/2025/10/15/17605546251443.jpg)
 
 
@@ -323,7 +329,8 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Participación:** Más de 30 marcas, 350 vehículos nuevos y 180 seminuevos  
 - **Novedad:** Zona para motocicletas, nuevos modelos expuestos por nueve marcas  
 - **Precios competitivos:** Desde 16.900 €  
-- [Más información](https://cadenaser.com/extremadura/2025/10/16/mas-de-30-marcas-presentaran-unos-500-vehiculos-en-el-salon-del-automovil-de-extremadura-radio-extremadura)
+
+[Más información](https://cadenaser.com/extremadura/2025/10/16/mas-de-30-marcas-presentaran-unos-500-vehiculos-en-el-salon-del-automovil-de-extremadura-radio-extremadura)
 
 ---
 
@@ -334,6 +341,8 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Motor:** De la CBR1000RR Fireblade 2017, 152 CV estándar / 157 CV SP  
 - **Características:** Línea clásica, integración de tecnología moderna  
 - [Más información](https://www.honda.es/motorcycles.html)
+
+
 ![](https://www.motofichas.com/images/phocagallery/Honda/cb1000-hornet-2025/10-honda-cb1000-hornet-2025-estudio-rojo-01.jpg)
 
 
