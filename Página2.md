@@ -108,3 +108,55 @@ Un piloto de F1 puede experimentar **fuerzas G de hasta 6 en las curvas**, lo qu
 - **Ayrton Senna**: Leyenda eterna de la F1, famoso por su habilidad en lluvia y precisión quirúrgica.
 
 `*Autor: Aquiles*`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# 🔍 Comparativa de Marcas: ¿Quién domina el mercado?
+
+En el competitivo mundo del automóvil, cada marca se esfuerza por destacar en tecnología, eficiencia, seguridad y precio. En esta sección analizamos **las diferencias clave entre las marcas más importantes del mercado**, ideales para ayudar al lector a tomar decisiones informadas.
+
+---
+
+## 🚗 **Toyota vs Volkswagen: Fiabilidad vs Innovación**
+| Característica | Toyota | Volkswagen |
+|----------------|--------|-----------|
+| Tecnología híbrida | Líder mundial con sistema probado y eficiente | Ofrece híbridos, pero apuesta más por eléctricos puros |
+| Fiabilidad | Muy alta, motores duraderos | Buena, pero con mayor coste de mantenimiento |
+| Precio | Competitivo | Ligeramente superior |
+| Conclusión | Ideal para quien busca ahorro a largo plazo | Perfecta para quien quiere tecnología avanzada y acabados premium |
+
+---
+
+## ⚡ **Tesla vs BMW: Eléctrico puro vs híbrido de alto rendimiento**
+| Característica | Tesla | BMW |
+|----------------|--------|-----|
+| Tipo de motorización | 100% eléctrica | Combina gasolina, híbridos y eléctricos (i-Series) |
+| Autonomía eléctrica | Hasta 600 km | Hasta 500 km (eléctricos), pero con más opciones híbridas |
+| Asistentes de conducción | Autopilot avanzado | Alta tecnología pero más limitada |
+| Conclusión | Para entusiastas del futuro 100% eléctrico | Para quienes buscan lujo con posibilidades híbridas |
+
+---
+
+## 💰 **Dacia vs Peugeot: Asequible vs equilibrio**
+| Característica | Dacia | Peugeot |
+|----------------|-------|--------|
+| Precio | El más económico del mercado | Intermedio |
+| Equipamiento | Funcional, básico | Más tecnológico y cómodo |
+| Mercado objetivo | Conductores prácticos | Conductores que desean estilo sin pagar premium |
+| Conclusión | Ideal para uso diario sin extras | Mejor si buscas diseño y confort al buen precio |
+
+---
+
+## 🏁 ¿Qué marca elegir según tu estilo?
+
+- **Si buscas eficiencia y tranquilidad:** *Toyota o Dacia*
+- **Si te apasiona la conducción deportiva:** *BMW o Peugeot GT Line*
+- **Si quieres tecnología del futuro:** *Tesla*
+- **Si necesitas un coche familiar con diseño europeo:** *Volkswagen o Peugeot*
+
+---
+
+> **Resumen final:**  
+*"No existe la mejor marca, sino la que mejor se adapta a tus necesidades. La clave está en conocer tus prioridades: consumo, tecnología, precio o emoción al volante."*
+
+`*Autor: Aquiles*`
