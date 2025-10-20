@@ -40,7 +40,7 @@ Durante la segunda mitad del siglo XIX, varios inventores trabajaron de forma in
 - **Bugatti**, con su exquisito diseño y rendimiento.  
 - **Alfa Romeo**, **Auto Union** y **Mercedes-Benz**, símbolos del poder industrial europeo.  
 - En Estados Unidos, el crecimiento de **Ford**, **Chevrolet** y **Chrysler** popularizó el coche a gran escala.
-- 
+  
 
 ![](https://noticias.pro.pvt.coches.com/wp-content/uploads/2011/12/International_Bugatti_Meeting_2011_04.jpg?force_format=original&w=1600&h=1067)
 
