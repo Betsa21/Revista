@@ -116,7 +116,7 @@ Durante la segunda mitad del siglo XIX, varios inventores trabajaron de forma in
 - **Tesla** redefine el concepto de coche eléctrico.  
 - Marcas tradicionales como **Porsche (Taycan)**, **BMW (i Series)**, **BYD** y **Hyundai** entran en la era eléctrica.  
 - Surgen competiciones nuevas como la **Fórmula E** y la **Extreme E**.
-- 
+ 
 
 ![](https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/07/22/3178297-65121208-2560-1440.jpg)
 
@@ -174,12 +174,15 @@ En los últimos años, los **coches eléctricos e híbridos** han dejado de ser 
   ![](https://i0.wp.com/www.escuderia.com/wp-content/uploads/2022/05/le-jamais-contente-4.jpg?fit=1500%2C785&ssl=1)
   
 
+
 ###  Funcionamiento
 Los EV funcionan exclusivamente con un **motor eléctrico** alimentado por **baterías recargables**.  
 - Arranque instantáneo y suave.  
 - Mantenimiento reducido: no requieren aceite ni sistemas complejos de combustión.  
 - Silenciosos y eficientes, ideales para ciudad.  
 - Recarga: en **casa, estaciones públicas o cargadores rápidos**, desde 30 minutos (carga rápida) hasta 12 horas (enchufe doméstico).
+
+
 
 ###  Modelos actuales destacados
 - **Tesla Model 3 / Model Y:** autonomía 500–600 km, tecnología avanzada.  
@@ -219,6 +222,8 @@ Los EV funcionan exclusivamente con un **motor eléctrico** alimentado por **bat
 - **Toyota Prius (1997)** popularizó los híbridos modernos.  
 - Marcas como **Mitsubishi, Volvo, BMW y Ford** desarrollaron híbridos para compactos y SUVs de lujo.
 
+
+
 ###  Funcionamiento y tipos
 - **HEV (Híbrido completo):**  
   - No necesita enchufe; la batería se carga con el motor y la frenada regenerativa.  
@@ -226,6 +231,8 @@ Los EV funcionan exclusivamente con un **motor eléctrico** alimentado por **bat
 - **PHEV (Híbrido enchufable):**  
   - Se puede recargar en casa o estaciones eléctricas.  
   - Permite recorrer varios kilómetros en modo eléctrico antes de usar gasolina.
+
+
 
 ###  Modelos actuales destacados
 - **Toyota Prius y Prius Plug-in**: híbrido accesible.  
@@ -382,6 +389,7 @@ En el ámbito de los deportivos, se siguen introduciendo nuevos modelos y actual
 *   **Ferrari 296 y Ferrari Roma:** Estos modelos de Ferrari figuran entre los mejores coches de 2025 por su alta calidad y rendimiento.
 *   **Cupra León híbrido:** El deportivo híbrido enchufable equilibra prestaciones deportivas con eficiencia energética y cuenta con la etiqueta Cero de la DGT.
 ![](https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=283834&w=1935&h=1089&crop=1&public=1&cs=b37c8f21d71d9f4a)
+
 
 
 #### SUV
