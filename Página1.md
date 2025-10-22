@@ -13,7 +13,9 @@
 6. [Entrevista](#-entrevista)
 7. [Top 5 del mes](#-top-5-del-mes)
 8. [Créditos](#-créditos)
-
+9. [Coches clásicos](#-CochesClasicos)
+10. [Coches más veloces](#-Cochesmasveloces)
+11. [Coches más exclusivos](#-CochesExclusivos)
 ---
 
 ## 🗣️ Editorial
