@@ -384,7 +384,7 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Tipo:** Naked inspirada en los años ‘80  
 - **Motor:** De la CBR1000RR Fireblade 2017, 152 CV estándar / 157 CV SP  
 - **Características:** Línea clásica, integración de tecnología moderna  
-- [Más información](https://www.honda.es/motorcycles.html)
+- [Más información](https://www.honda.es/motorcycles/range/street/cb1000-hornet/specifications-and-price.html#model=cb1000_hornet_sp_2025&bike=cb1000_hornet&colour=nh-a86m_matte_ballistic_black_metallic)
 
 
 ![](https://www.motofichas.com/images/phocagallery/Honda/cb1000-hornet-2025/10-honda-cb1000-hornet-2025-estudio-rojo-01.jpg)
@@ -395,7 +395,7 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Tipo:** Aventura / Touring  
 - **Motor:** Bicilíndrico 1.084 cc, ajustes de distribución y electrónica  
 - **Personalización:** 4 kits de accesorios (Adventure Combi, Urban, Travel, Rally)  
-- [Más información](https://www.honda.es/motorcycles.html)
+- [Más información](https://www.honda.es/motorcycles/range/adventure/crf1100l-africa-twin/specifications-and-price.html#model=crf1100l_at_stnd_2025&bike=crf1100l_at&colour=nh-a86m_matte_ballistic_black_metallic)
 ![](https://www.motofichas.com/images/phocagallery/Honda/africa-twin-adventure-sports-2024/08-honda-africa-twin-adventure-sports-2025-estudio-gris-01.jpg)
 
 
