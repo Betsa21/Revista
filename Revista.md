@@ -18,7 +18,7 @@
 ---
 
 
-Bienvenido a **TOODOMOTOR**, tu revista digital sobre el mundo del automóvil.  
+Bienvenido a **TODOMOTOR**, tu revista digital sobre el mundo del automóvil.  
 
 > “Los coches no solo se conducen, se sienten.”  
 > — *Enzo Ferrari*
