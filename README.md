@@ -336,7 +336,7 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Autonomía:** Hasta 790 km (ciclo WLTP)  
 - **Precio:** Desde 39.656 € hasta 49.028 €  
 - **Detalles:** Evento organizado por Antonio Banderas y Domingo Sánchez; inicio de la ofensiva de 40 modelos eléctricos antes de 2027.  
-- [Más información](https://cincodias.elpais.com/companias/2025-10-14/repsol-presenta-una-nueva-gasolina-renovable-que-emite-un-70-menos-de-co2-y-que-cuesta-nueve-centimos-mas.html)
+- [Más información](https://www.mercedes-benz.es/passengercars/campaigns/cla-electric.html?gagcmid=GA_20717276315_158035598354_778824287497&utm_source=GOOGLE&utm_medium=cpc&utm_campaign=C.P.SEA.CLA_NA_LA_ES_CLA_HYS202412996271&gclsrc=aw.ds&gad_source=1&gad_campaignid=20717276315&gbraid=0AAAAAqPuZuat5CtykYMRDTZLLwbW-tHif&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG3EVkU60oS_7XDppgK5CDfRAXiejtINTKh-0Np-mMcNRK9ieYxy7DsaAmd_EALw_wcB)
 
 
 ![](https://fotografias.lasexta.com/clipping/cmsimages01/2023/09/05/C71FD37B-764A-4C87-A8E4-8E34CA945524/mercedes-benz-cla-concept-adelanto-berlina-mediana-100-electrica-que-llegara-2025-tecnologia-punta_104.jpg?crop=1080,1080,x350,y0&width=1200&height=1200&optimize=low&format=webply)
@@ -349,7 +349,7 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Motorizaciones:** Híbrida 145 CV, Plug-In Hybrid 195 CV, eléctrica 213-230 CV  
 - **Autonomía eléctrica:** Hasta 680 km (WLTP)  
 - **Precio:** Desde 27.690 €  
-- [Más información](https://cincodias.elpais.com/companias/2025-10-14/repsol-presenta-una-nueva-gasolina-renovable-que-emite-un-70-menos-de-co2-y-que-cuesta-nueve-centimos-mas.html)
+- [Más información](https://www.citroen.es/vehiculos-citroen/nuevo-c5-aircross.html?srsltid=AfmBOorZE07JECkG3JEvt7aZ6PNeTJqx5RvF1zHMztitlJwc_yQ0gXQY)
 
 
 ![](https://fotos.quecochemecompro.com/citroen-c5-aircross/40291620.jpg?size=750x400)
@@ -404,7 +404,7 @@ En los últimos dos años, el mundo del motor ha vivido una transformación sign
 - **Tipo:** Concept de movilidad inteligente  
 - **Característica clave:** Inteligencia artificial que aprende y comunica con el piloto  
 - **Evento:** Japan Mobility Show 2025
-- [Más información](https://www.honda.es/motorcycles.html)
+- [Más información](https://global.yamaha-motor.com/design_technology/design/concept/motoroid/)
 ![](https://www.moto1pro.com/sites/default/files/1_motoroid_l_yamaha.jpg)
 
 
